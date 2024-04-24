@@ -27,11 +27,11 @@
 	<type>virtual</type>
 	<index>0</index>
 	<scale>1.0</scale>
-	<upperLimit>1.0E8</upperLimit>
-	<lowerLimit>-1.0E8</lowerLimit>
-	<upperVelocity>1.0E8</upperVelocity>
-	<lowerVelocity>-1.0E8</lowerVelocity>
-	<staticOffset>128.0</staticOffset>
+	<upperLimit>1000.0</upperLimit>
+	<lowerLimit>-1000.0</lowerLimit>
+	<upperVelocity>328.0</upperVelocity>
+	<lowerVelocity>-328.0</lowerVelocity>
+	<staticOffset>0.0</staticOffset>
 	<deviceTheoreticalMax>2.147483647E9</deviceTheoreticalMax>
 	<deviceTheoreticalMin>-2.147483648E9</deviceTheoreticalMin>
 	<isLatch>true</isLatch>
@@ -199,9 +199,9 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
-	<rotw>0.6087614290087178</rotw>
+	<rotw>0.6087614290087177</rotw>
 	<rotx>-0.0</rotx>
-	<roty>-0.7933533402912376</roty>
+	<roty>-0.7933533402912374</roty>
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
