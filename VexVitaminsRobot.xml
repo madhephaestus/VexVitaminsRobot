@@ -176,22 +176,6 @@
 	<vitamins>
 
 		<vitamin>
-			<name>beam</name>
-			<type>vexCchannel</type>
-			<id>Aluminum 3x5</id>
-			<pose>
-	<x>-38.00000000000001</x>
-	<y>8.881784197001252E-15</y>
-	<z>-1.7763568394002505E-15</z>
-	<rotw>-2.1510571102112404E-15</rotw>
-	<rotx>-1.0</rotx>
-	<roty>-9.1465551601625E-18</roty>
-	<rotz>9.261686258495198E-18</rotz>
-			</pose>
-			<frame>default</frame>
-		</vitamin>
-
-		<vitamin>
 			<name>beam2</name>
 			<type>vexCchannel</type>
 			<id>Aluminum 3x15</id>
@@ -218,6 +202,22 @@
 	<rotw>1.0</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>default</frame>
+		</vitamin>
+
+		<vitamin>
+			<name>beam</name>
+			<type>vexCchannel</type>
+			<id>Aluminum 3x15</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>0.6087614290087177</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.7933533402912374</roty>
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
