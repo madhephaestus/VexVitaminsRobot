@@ -54,7 +54,7 @@
 	<roty>-0.0</roty>
 	<rotz>-0.0</rotz>
 			</pose>
-			<frame>default</frame>
+			<frame>origin</frame>
 		</vitamin>
 
 		<vitamin>
@@ -70,7 +70,7 @@
 	<roty>-0.0</roty>
 	<rotz>-0.0</rotz>
 			</pose>
-			<frame>default</frame>
+			<frame>lastlink</frame>
 		</vitamin>
 
 	</vitamins>
@@ -215,9 +215,9 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
-	<rotw>0.6087614290087177</rotw>
+	<rotw>0.6087614290087178</rotw>
 	<rotx>-0.0</rotx>
-	<roty>-0.7933533402912374</roty>
+	<roty>-0.7933533402912376</roty>
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
