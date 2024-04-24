@@ -159,6 +159,54 @@
 
 	<vitamins>
 
+		<vitamin>
+			<name>beam</name>
+			<type>vexCchannel</type>
+			<id>Aluminum 3x5</id>
+			<pose>
+	<x>-7.105427357601002E-15</x>
+	<y>8.881784197001252E-15</y>
+	<z>-1.7763568394002505E-15</z>
+	<rotw>-2.1510571102112404E-15</rotw>
+	<rotx>-1.0</rotx>
+	<roty>-9.1465551601625E-18</roty>
+	<rotz>9.261686258495198E-18</rotz>
+			</pose>
+			<frame>default</frame>
+		</vitamin>
+
+		<vitamin>
+			<name>beam2</name>
+			<type>vexCchannel</type>
+			<id>Aluminum 3x15</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>25.4</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>default</frame>
+		</vitamin>
+
+		<vitamin>
+			<name>wheel</name>
+			<type>vexWheels</type>
+			<id>4inchStandard</id>
+			<pose>
+	<x>76.2</x>
+	<y>12.7</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>default</frame>
+		</vitamin>
+
 	</vitamins>
 
 </mobilebase>
