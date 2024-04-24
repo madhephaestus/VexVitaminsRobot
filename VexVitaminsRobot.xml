@@ -57,6 +57,22 @@
 			<frame>default</frame>
 		</vitamin>
 
+		<vitamin>
+			<name>electroMechanical</name>
+			<type>hobbyServoHorn</type>
+			<id>mg92b</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>default</frame>
+		</vitamin>
+
 	</vitamins>
 	<passive>false</passive>
 	<mass>0.01</mass>
@@ -164,7 +180,7 @@
 			<type>vexCchannel</type>
 			<id>Aluminum 3x5</id>
 			<pose>
-	<x>-7.105427357601002E-15</x>
+	<x>-38.00000000000001</x>
 	<y>8.881784197001252E-15</y>
 	<z>-1.7763568394002505E-15</z>
 	<rotw>-2.1510571102112404E-15</rotw>
