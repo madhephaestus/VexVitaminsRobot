@@ -27,8 +27,8 @@
 	<type>virtual</type>
 	<index>0</index>
 	<scale>1.0</scale>
-	<upperLimit>100000.0</upperLimit>
-	<lowerLimit>-100000.0</lowerLimit>
+	<upperLimit>180.0</upperLimit>
+	<lowerLimit>0.0</lowerLimit>
 	<upperVelocity>1.0E8</upperVelocity>
 	<lowerVelocity>-1.0E8</lowerVelocity>
 	<staticOffset>0.0</staticOffset>
@@ -40,6 +40,22 @@
 	<homingTPS>10000000</homingTPS>
 
 	<vitamins>
+
+		<vitamin>
+			<name>shaft</name>
+			<type>hobbyServoHorn</type>
+			<id>standardMicro1</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>default</frame>
+		</vitamin>
 
 	</vitamins>
 	<passive>false</passive>
@@ -121,7 +137,7 @@
 	<rotz>-0.0</rotz>
 
 </baseToZframe>
-	<mass>0.5</mass>
+	<mass>0.005</mass>
 	<centerOfMassFromCentroid>
 	<x>0.0</x>
 	<y>0.0</y>
