@@ -59,7 +59,7 @@
 
 		<vitamin>
 			<name>electroMechanical</name>
-			<type>hobbyServoHorn</type>
+			<type>hobbyServo</type>
 			<id>mg92b</id>
 			<pose>
 	<x>0.0</x>
