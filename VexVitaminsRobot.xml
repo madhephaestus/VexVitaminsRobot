@@ -23,8 +23,8 @@
 	</kinematics>
 <link>
 	<name>wheel</name>
-	<deviceName>dyio</deviceName>
-	<type>pid-tool</type>
+	<deviceName>midnight</deviceName>
+	<type>hidfast</type>
 	<index>0</index>
 	<scale>1.0</scale>
 	<upperLimit>1.0E8</upperLimit>
