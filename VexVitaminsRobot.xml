@@ -129,6 +129,109 @@
 </baseToZframe>
 
 </appendage>
+<drivable>
+
+<name>wheel</name>
+	<cadEngine>
+		<git>https://github.com/madhephaestus/VexVitaminsRobot.git</git>
+		<file>VexVitaminsRobotCad.groovy</file>
+	</cadEngine>
+	<kinematics>
+		<git>https://github.com/madhephaestus/carl-the-hexapod.git</git>
+		<file>DefaultDhSolver.groovy</file>
+	</kinematics>
+<link>
+	<name>wheel</name>
+	<deviceName>dyio</deviceName>
+	<type>pid-tool</type>
+	<index>0</index>
+	<scale>0.33</scale>
+	<upperLimit>1.0E8</upperLimit>
+	<lowerLimit>-1.0E8</lowerLimit>
+	<upperVelocity>1.0E8</upperVelocity>
+	<lowerVelocity>-1.0E8</lowerVelocity>
+	<staticOffset>128.0</staticOffset>
+	<deviceTheoreticalMax>2.147483647E9</deviceTheoreticalMax>
+	<deviceTheoreticalMin>-2.147483648E9</deviceTheoreticalMin>
+	<isLatch>true</isLatch>
+	<indexLatch>145.0</indexLatch>
+	<isStopOnLatch>false</isStopOnLatch>
+	<homingTPS>10000000</homingTPS>
+
+	<vitamins>
+
+		<vitamin>
+			<name>shaft</name>
+			<type>vexWheels</type>
+			<id>4inchSmooth</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>default</frame>
+		</vitamin>
+
+	</vitamins>
+	<passive>false</passive>
+	<mass>0.01</mass>
+	<centerOfMassFromCentroid>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>0.0</rotx>
+	<roty>0.0</roty>
+	<rotz>0.0</rotz>
+</centerOfMassFromCentroid>
+	<imuFromCentroid>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+</imuFromCentroid>
+
+	<DHParameters>
+		<Delta>5.0</Delta>
+		<Theta>90.0</Theta>
+		<Radius>40.0</Radius>
+		<Alpha>0.0</Alpha>
+	</DHParameters>
+
+</link>
+
+<ZframeToRAS
+>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>0.0</rotx>
+	<roty>0.0</roty>
+	<rotz>0.0</rotz>
+
+</ZframeToRAS>
+
+<baseToZframe>
+
+	<x>-8.881784197001252E-15</x>
+	<y>0.0</y>
+	<z>39.999999999999986</z>
+	<rotw>1.0467283057891836E-16</rotw>
+	<rotx>0.0</rotx>
+	<roty>0.7071067811865476</roty>
+	<rotz>0.7071067811865476</rotz>
+
+</baseToZframe>
+
+</drivable>
 
 <ZframeToRAS>
 
@@ -215,9 +318,9 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
-	<rotw>0.6087614290087178</rotw>
+	<rotw>0.6087614290087177</rotw>
 	<rotx>-0.0</rotx>
-	<roty>-0.7933533402912376</roty>
+	<roty>-0.7933533402912374</roty>
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
