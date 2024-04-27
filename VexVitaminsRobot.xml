@@ -199,9 +199,25 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
-	<rotw>0.6087614290087178</rotw>
+	<rotw>0.6087614290087177</rotw>
 	<rotx>-0.0</rotx>
-	<roty>-0.7933533402912376</roty>
+	<roty>-0.7933533402912374</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>default</frame>
+		</vitamin>
+
+		<vitamin>
+			<name>beam3</name>
+			<type>vexLchannel</type>
+			<id>Aluminum 10</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>38.1</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
