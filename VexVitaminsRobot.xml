@@ -42,22 +42,6 @@
 	<vitamins>
 
 		<vitamin>
-			<name>electroMechanical</name>
-			<type>hobbyServo</type>
-			<id>mg92b</id>
-			<pose>
-	<x>0.0</x>
-	<y>0.0</y>
-	<z>0.0</z>
-	<rotw>1.0</rotw>
-	<rotx>-0.0</rotx>
-	<roty>-0.0</roty>
-	<rotz>-0.0</rotz>
-			</pose>
-			<frame>lastlink</frame>
-		</vitamin>
-
-		<vitamin>
 			<name>shaft</name>
 			<type>vexWheels</type>
 			<id>4inchSmooth</id>
@@ -71,6 +55,22 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+		</vitamin>
+
+		<vitamin>
+			<name>electroMechanical</name>
+			<type>vexMotor</type>
+			<id>393</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>lastlink</frame>
 		</vitamin>
 
 	</vitamins>
@@ -118,7 +118,7 @@
 
 <baseToZframe>
 
-	<x>25.200000000000003</x>
+	<x>58.2</x>
 	<y>-12.599999999999998</y>
 	<z>12.6</z>
 	<rotw>0.49999999999999983</rotw>
@@ -199,9 +199,9 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
-	<rotw>0.6087614290087177</rotw>
+	<rotw>0.6087614290087178</rotw>
 	<rotx>-0.0</rotx>
-	<roty>-0.7933533402912374</roty>
+	<roty>-0.7933533402912376</roty>
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
