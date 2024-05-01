@@ -14,9 +14,9 @@ return new com.neuronrobotics.sdk.addons.kinematics.IDriveEngine (){
 		IDriveEngine engine=driving;
 		if(base.getLegs().size()>0) {
 			engine=walking;
-		}else if(base.getSteerable().size()>0) {
-			engine=driving;
 		}else if(base.getDrivable().size()>0) {
+			engine=driving;
+		}else if(base.getSteerable().size()>0) {
 			engine=driving;
 		}
 		engine.DriveArc( base,  newPose,  seconds);

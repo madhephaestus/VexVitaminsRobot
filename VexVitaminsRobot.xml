@@ -6,7 +6,7 @@
 	</cadEngine>
 	<driveEngine>
 		<git>https://github.com/madhephaestus/VexVitaminsRobot.git</git>
-		<file>VexVitaminsRobotWalk.groovy</file>
+		<file>FixedDriveEngine.groovy</file>
 	</driveEngine>
 
 <name>VexVitaminsRobot</name>
