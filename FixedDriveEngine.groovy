@@ -23,28 +23,39 @@ return new com.neuronrobotics.sdk.addons.kinematics.IDriveEngine (){
 	@Override
 	public void DriveArc(MobileBase base, TransformNR newPose, double seconds) {
 		newPose = newPose.inverse()
-		
-		HashMap<DHParameterKinematics,MobileBase> wheels = getDrivable(base)
-		for(DHParameterKinematics LimbWithWheel:wheels.keySet()){
-			MobileBase wheelSource=wheels.get(LimbWithWheel);
-			TransformNR global= base.getFiducialToGlobalTransform();
-			if(global==null){
-				global=new TransformNR()
-				base.setGlobalToFiducialTransform(global)
+		//println "Move "+newPose.toSimpleString()
+		try {
+			HashMap<DHParameterKinematics,MobileBase> wheels = getDrivable(base)
+			for(DHParameterKinematics LimbWithWheel:wheels.keySet()){
+				MobileBase wheelSource=wheels.get(LimbWithWheel);
+				TransformNR global= base.getFiducialToGlobalTransform();
+				if(global==null){
+					global=new TransformNR()
+					base.setGlobalToFiducialTransform(global)
+				}
+				global=global.times(newPose);// new global pose
+				TransformNR tipCheck = new TransformNR(0,0,1)
+				int wheelIndex = LimbWithWheel.getNumberOfLinks()-1
+				//println "Wheel "+LimbWithWheel.getScriptingName()+" index "+wheelIndex
+				TransformNR wheelStarting;
+				
+				if(wheelIndex==0) {
+					wheelStarting=wheelSource.forwardOffset(LimbWithWheel.getRobotToFiducialTransform())
+				}else {
+					wheelStarting=wheelSource.forwardOffset(LimbWithWheel.getLinkTip(wheelIndex-1))
+				}
+				TransformNR zvect = wheelStarting.times(tipCheck)
+				TransformNR orentation = new TransformNR(
+					-wheelStarting.getX()+zvect.getX(),
+					-wheelStarting.getY()+zvect.getY(),
+					-wheelStarting.getZ()+zvect.getZ()
+					)
+				double orentAngle =Math.atan2(orentation.getY(),orentation.getX())
+				println "Z pointing in "+Math.toDegrees(orentAngle)
+				
 			}
-			global=global.times(newPose);// new global pose
-			TransformNR tipCheck = new TransformNR(0,0,1)
-			int wheelIndex = LimbWithWheel.getNumberOfLinks()-1
-			//println "Wheel "+LimbWithWheel.getScriptingName()+" index "+wheelIndex
-			TransformNR wheelStarting;
-			
-			if(wheelIndex==0) {
-				wheelStarting=wheelSource.forwardOffset(LimbWithWheel.getRobotToFiducialTransform())
-			}else {
-				wheelStarting=wheelSource.forwardOffset(LimbWithWheel.getLinkTip(wheelIndex-1))
-			}
-			
-			
+		}catch(Throwable t) {
+			t.printStackTrace()
 		}
 	}
 	
