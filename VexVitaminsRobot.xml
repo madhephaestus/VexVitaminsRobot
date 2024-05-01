@@ -96,9 +96,9 @@
 </imuFromCentroid>
 
 	<DHParameters>
-		<Delta>5.0</Delta>
-		<Theta>90.0</Theta>
-		<Radius>40.0</Radius>
+		<Delta>0.0</Delta>
+		<Theta>0.0</Theta>
+		<Radius>52.0</Radius>
 		<Alpha>0.0</Alpha>
 	</DHParameters>
 
@@ -199,9 +199,9 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
-	<rotw>0.6087614290087178</rotw>
+	<rotw>0.6087614290087177</rotw>
 	<rotx>-0.0</rotx>
-	<roty>-0.7933533402912376</roty>
+	<roty>-0.7933533402912374</roty>
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
