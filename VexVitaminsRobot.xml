@@ -129,6 +129,363 @@
 </baseToZframe>
 
 </drivable>
+<drivable>
+
+<name>left</name>
+	<cadEngine>
+		<git>https://github.com/madhephaestus/VexVitaminsRobot.git</git>
+		<file>VexVitaminsRobotCad.groovy</file>
+	</cadEngine>
+	<kinematics>
+		<git>https://github.com/madhephaestus/carl-the-hexapod.git</git>
+		<file>DefaultDhSolver.groovy</file>
+	</kinematics>
+<link>
+	<name>wheel</name>
+	<deviceName>virtualDev</deviceName>
+	<type>virtual</type>
+	<index>1</index>
+	<scale>1.0</scale>
+	<upperLimit>1000.0</upperLimit>
+	<lowerLimit>-1000.0</lowerLimit>
+	<upperVelocity>328.0</upperVelocity>
+	<lowerVelocity>-328.0</lowerVelocity>
+	<staticOffset>0.0</staticOffset>
+	<deviceTheoreticalMax>2.147483647E9</deviceTheoreticalMax>
+	<deviceTheoreticalMin>-2.147483648E9</deviceTheoreticalMin>
+	<isLatch>true</isLatch>
+	<indexLatch>145.0</indexLatch>
+	<isStopOnLatch>false</isStopOnLatch>
+	<homingTPS>10000000</homingTPS>
+
+	<vitamins>
+
+		<vitamin>
+			<name>shaft</name>
+			<type>vexWheels</type>
+			<id>4inchSmooth</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>origin</frame>
+		</vitamin>
+
+		<vitamin>
+			<name>electroMechanical</name>
+			<type>vexMotor</type>
+			<id>393</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>lastlink</frame>
+		</vitamin>
+
+	</vitamins>
+	<passive>false</passive>
+	<mass>0.01</mass>
+	<centerOfMassFromCentroid>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>0.0</rotx>
+	<roty>0.0</roty>
+	<rotz>0.0</rotz>
+</centerOfMassFromCentroid>
+	<imuFromCentroid>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+</imuFromCentroid>
+
+	<DHParameters>
+		<Delta>0.0</Delta>
+		<Theta>0.0</Theta>
+		<Radius>52.0</Radius>
+		<Alpha>0.0</Alpha>
+	</DHParameters>
+
+</link>
+
+<ZframeToRAS
+>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+
+</ZframeToRAS>
+
+<baseToZframe>
+
+	<x>58.2</x>
+	<y>100.0</y>
+	<z>12.6</z>
+	<rotw>-0.4999127259224038</rotw>
+	<rotx>0.5000000000000041</rotx>
+	<roty>0.49999999999999606</roty>
+	<rotz>0.5000872588467254</rotz>
+
+</baseToZframe>
+
+</drivable>
+<drivable>
+
+<name>frontRight</name>
+	<cadEngine>
+		<git>https://github.com/madhephaestus/VexVitaminsRobot.git</git>
+		<file>VexVitaminsRobotCad.groovy</file>
+	</cadEngine>
+	<kinematics>
+		<git>https://github.com/madhephaestus/carl-the-hexapod.git</git>
+		<file>DefaultDhSolver.groovy</file>
+	</kinematics>
+<link>
+	<name>wheel</name>
+	<deviceName>virtualDev</deviceName>
+	<type>virtual</type>
+	<index>2</index>
+	<scale>1.0</scale>
+	<upperLimit>1000.0</upperLimit>
+	<lowerLimit>-1000.0</lowerLimit>
+	<upperVelocity>328.0</upperVelocity>
+	<lowerVelocity>-328.0</lowerVelocity>
+	<staticOffset>0.0</staticOffset>
+	<deviceTheoreticalMax>2.147483647E9</deviceTheoreticalMax>
+	<deviceTheoreticalMin>-2.147483648E9</deviceTheoreticalMin>
+	<isLatch>true</isLatch>
+	<indexLatch>145.0</indexLatch>
+	<isStopOnLatch>false</isStopOnLatch>
+	<homingTPS>10000000</homingTPS>
+
+	<vitamins>
+
+		<vitamin>
+			<name>shaft</name>
+			<type>vexWheels</type>
+			<id>4inchSmooth</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>origin</frame>
+		</vitamin>
+
+		<vitamin>
+			<name>electroMechanical</name>
+			<type>vexMotor</type>
+			<id>393</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>lastlink</frame>
+		</vitamin>
+
+	</vitamins>
+	<passive>false</passive>
+	<mass>0.01</mass>
+	<centerOfMassFromCentroid>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>0.0</rotx>
+	<roty>0.0</roty>
+	<rotz>0.0</rotz>
+</centerOfMassFromCentroid>
+	<imuFromCentroid>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+</imuFromCentroid>
+
+	<DHParameters>
+		<Delta>0.0</Delta>
+		<Theta>0.0</Theta>
+		<Radius>52.0</Radius>
+		<Alpha>0.0</Alpha>
+	</DHParameters>
+
+</link>
+
+<ZframeToRAS
+>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+
+</ZframeToRAS>
+
+<baseToZframe>
+
+	<x>200.0</x>
+	<y>-12.599999999999998</y>
+	<z>12.6</z>
+	<rotw>0.5048458934646433</rotw>
+	<rotx>0.5048458934646445</rotx>
+	<roty>0.49510667926406</roty>
+	<rotz>-0.4951066792640614</rotz>
+
+</baseToZframe>
+
+</drivable>
+<drivable>
+
+<name>frontLeft</name>
+	<cadEngine>
+		<git>https://github.com/madhephaestus/VexVitaminsRobot.git</git>
+		<file>VexVitaminsRobotCad.groovy</file>
+	</cadEngine>
+	<kinematics>
+		<git>https://github.com/madhephaestus/carl-the-hexapod.git</git>
+		<file>DefaultDhSolver.groovy</file>
+	</kinematics>
+<link>
+	<name>wheel</name>
+	<deviceName>virtualDev</deviceName>
+	<type>virtual</type>
+	<index>3</index>
+	<scale>1.0</scale>
+	<upperLimit>1000.0</upperLimit>
+	<lowerLimit>-1000.0</lowerLimit>
+	<upperVelocity>328.0</upperVelocity>
+	<lowerVelocity>-328.0</lowerVelocity>
+	<staticOffset>0.0</staticOffset>
+	<deviceTheoreticalMax>2.147483647E9</deviceTheoreticalMax>
+	<deviceTheoreticalMin>-2.147483648E9</deviceTheoreticalMin>
+	<isLatch>true</isLatch>
+	<indexLatch>145.0</indexLatch>
+	<isStopOnLatch>false</isStopOnLatch>
+	<homingTPS>10000000</homingTPS>
+
+	<vitamins>
+
+		<vitamin>
+			<name>shaft</name>
+			<type>vexWheels</type>
+			<id>4inchSmooth</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>origin</frame>
+		</vitamin>
+
+		<vitamin>
+			<name>electroMechanical</name>
+			<type>vexMotor</type>
+			<id>393</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>lastlink</frame>
+		</vitamin>
+
+	</vitamins>
+	<passive>false</passive>
+	<mass>0.01</mass>
+	<centerOfMassFromCentroid>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>0.0</rotx>
+	<roty>0.0</roty>
+	<rotz>0.0</rotz>
+</centerOfMassFromCentroid>
+	<imuFromCentroid>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+</imuFromCentroid>
+
+	<DHParameters>
+		<Delta>0.0</Delta>
+		<Theta>0.0</Theta>
+		<Radius>52.0</Radius>
+		<Alpha>0.0</Alpha>
+	</DHParameters>
+
+</link>
+
+<ZframeToRAS
+>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+
+</ZframeToRAS>
+
+<baseToZframe>
+
+	<x>200.0</x>
+	<y>100.0</y>
+	<z>12.6</z>
+	<rotw>-0.4999127259223749</rotw>
+	<rotx>0.500000000000033</rotx>
+	<roty>0.4999999999999671</roty>
+	<rotz>0.5000872588467542</rotz>
+
+</baseToZframe>
+
+</drivable>
 
 <ZframeToRAS>
 
