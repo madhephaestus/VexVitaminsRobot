@@ -60,7 +60,7 @@
 		<vitamin>
 			<name>electroMechanical</name>
 			<type>vexMotor</type>
-			<id>393</id>
+			<id>v5_11w</id>
 			<pose>
 	<x>0.0</x>
 	<y>0.0</y>
@@ -179,7 +179,7 @@
 		<vitamin>
 			<name>electroMechanical</name>
 			<type>vexMotor</type>
-			<id>393</id>
+			<id>v5_11w</id>
 			<pose>
 	<x>0.0</x>
 	<y>0.0</y>
@@ -298,7 +298,7 @@
 		<vitamin>
 			<name>electroMechanical</name>
 			<type>vexMotor</type>
-			<id>393</id>
+			<id>v5_11w</id>
 			<pose>
 	<x>0.0</x>
 	<y>0.0</y>
@@ -417,7 +417,7 @@
 		<vitamin>
 			<name>electroMechanical</name>
 			<type>vexMotor</type>
-			<id>393</id>
+			<id>v5_11w</id>
 			<pose>
 	<x>0.0</x>
 	<y>0.0</y>
