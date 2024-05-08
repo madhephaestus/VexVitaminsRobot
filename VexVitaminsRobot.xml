@@ -74,7 +74,7 @@
 		</vitamin>
 
 	</vitamins>
-	<passive>false</passive>
+	<passive>true</passive>
 	<mass>0.01</mass>
 	<centerOfMassFromCentroid>
 	<x>0.0</x>
@@ -193,7 +193,7 @@
 		</vitamin>
 
 	</vitamins>
-	<passive>false</passive>
+	<passive>true</passive>
 	<mass>0.01</mass>
 	<centerOfMassFromCentroid>
 	<x>0.0</x>
