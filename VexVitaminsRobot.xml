@@ -237,6 +237,22 @@
 			<frame>lastlink</frame>
 		</vitamin>
 
+		<vitamin>
+			<name>beam</name>
+			<type>vexCchannel</type>
+			<id>Aluminum_1x2x25</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>8.726646248878822E-5</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.9999999961922823</rotz>
+			</pose>
+			<frame>default</frame>
+		</vitamin>
+
 	</vitamins>
 	<passive>false</passive>
 	<mass>0.01</mass>
@@ -262,7 +278,7 @@
 	<DHParameters>
 		<Delta>0.0</Delta>
 		<Theta>90.0</Theta>
-		<Radius>131.0</Radius>
+		<Radius>250.0</Radius>
 		<Alpha>0.0</Alpha>
 	</DHParameters>
 
