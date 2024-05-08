@@ -59,8 +59,8 @@
 
 		<vitamin>
 			<name>electroMechanical</name>
-			<type>vexMotor</type>
-			<id>v5_11w</id>
+			<type>vex_Hex_Nut_Retainer</type>
+			<id>Flat_Bearing</id>
 			<pose>
 	<x>0.0</x>
 	<y>0.0</y>
@@ -178,8 +178,8 @@
 
 		<vitamin>
 			<name>electroMechanical</name>
-			<type>vexMotor</type>
-			<id>v5_11w</id>
+			<type>vex_Hex_Nut_Retainer</type>
+			<id>Flat_Bearing</id>
 			<pose>
 	<x>0.0</x>
 	<y>0.0</y>
@@ -624,6 +624,22 @@
 	<rotx>6.170670739598365E-5</rotx>
 	<roty>-0.7071067784940847</roty>
 	<rotz>-0.7071067784940843</rotz>
+			</pose>
+			<frame>default</frame>
+		</vitamin>
+
+		<vitamin>
+			<name>standoff1</name>
+			<type>vexStandoff</type>
+			<id>4 inch</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>38.1</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
 		</vitamin>
