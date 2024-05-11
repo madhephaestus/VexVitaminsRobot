@@ -26,7 +26,7 @@
 	<deviceName>virtualDev</deviceName>
 	<type>virtual</type>
 	<index>4</index>
-	<scale>0.33</scale>
+	<scale>2.0</scale>
 	<upperLimit>255.0</upperLimit>
 	<lowerLimit>0.0</lowerLimit>
 	<upperVelocity>1.0E8</upperVelocity>
@@ -108,7 +108,7 @@
 	<deviceName>virtualDev</deviceName>
 	<type>virtual</type>
 	<index>5</index>
-	<scale>0.33</scale>
+	<scale>2.0</scale>
 	<upperLimit>255.0</upperLimit>
 	<lowerLimit>0.0</lowerLimit>
 	<upperVelocity>1.0E8</upperVelocity>
@@ -190,7 +190,7 @@
 	<deviceName>virtualDev</deviceName>
 	<type>virtual</type>
 	<index>6</index>
-	<scale>0.33</scale>
+	<scale>2.0</scale>
 	<upperLimit>255.0</upperLimit>
 	<lowerLimit>0.0</lowerLimit>
 	<upperVelocity>1.0E8</upperVelocity>
@@ -539,10 +539,10 @@
 	<x>58.2</x>
 	<y>100.0</y>
 	<z>12.6</z>
-	<rotw>-0.4999127259224037</rotw>
-	<rotx>0.500000000000004</rotx>
-	<roty>0.49999999999999595</roty>
-	<rotz>0.5000872588467253</rotz>
+	<rotw>-0.4999127259224038</rotw>
+	<rotx>0.5000000000000041</rotx>
+	<roty>0.49999999999999606</roty>
+	<rotz>0.5000872588467254</rotz>
 
 </baseToZframe>
 
@@ -855,9 +855,9 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
-	<rotw>0.6087614290087178</rotw>
+	<rotw>0.6087614290087177</rotw>
 	<rotx>-0.0</rotx>
-	<roty>-0.7933533402912376</roty>
+	<roty>-0.7933533402912374</roty>
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
@@ -932,9 +932,9 @@
 			<type>vexStandoff</type>
 			<id>4 inch</id>
 			<pose>
-	<x>0.0</x>
-	<y>0.0</y>
-	<z>38.1</z>
+	<x>19.049999999999997</x>
+	<y>-6.35</y>
+	<z>-273.0499999999999</z>
 	<rotw>1.0</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
