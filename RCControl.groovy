@@ -21,10 +21,10 @@ if(args==null){
 
 
 println "Now we will move just one leg"
-DHParameterKinematics leg0 = base.getAllDHChains().get(0)
+DHParameterKinematics arm = base.getAppendages().get(0)
 double zLift=25
 println "Start from where the arm already is and move it from there with absolute location"
-TransformNR current = leg0.getCurrentPoseTarget();
+TransformNR current = arm.getCurrentPoseTarget();
 current.translateZ(zLift);
-leg0.setDesiredTaskSpaceTransform(current,  2.0);
+arm.setDesiredTaskSpaceTransform(current,  2.0);
 ThreadUtil.wait(2000)// wait for the legs to fully arrive
