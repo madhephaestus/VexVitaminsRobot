@@ -180,7 +180,7 @@
 	<DHParameters>
 		<Delta>0.0</Delta>
 		<Theta>-90.0</Theta>
-		<Radius>150.0</Radius>
+		<Radius>93.0</Radius>
 		<Alpha>0.0</Alpha>
 	</DHParameters>
 
@@ -932,9 +932,9 @@
 			<type>vexStandoff</type>
 			<id>4 inch</id>
 			<pose>
-	<x>19.049999999999997</x>
-	<y>-6.35</y>
-	<z>-273.0499999999999</z>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>38.1</z>
 	<rotw>1.0</rotw>
 	<rotx>-0.0</rotx>
 	<roty>-0.0</roty>
