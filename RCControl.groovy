@@ -27,4 +27,4 @@ println "Start from where the arm already is and move it from there with absolut
 TransformNR current = arm.getCurrentPoseTarget();
 current.translateZ(zLift);
 arm.setDesiredTaskSpaceTransform(current,  2.0);
-ThreadUtil.wait(2000)// wait for the legs to fully arrive
+ThreadUtil.wait(2000)// wait for the arm to fully arrive
