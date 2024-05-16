@@ -31,7 +31,7 @@ ThreadUtil.wait(2000)// wait for the arm to fully arrive
 // move the ring in positive Y by 50 mm
 TransformNR move = new TransformNR(-5,0,0,new RotationNR())
 double toSeconds=0.03//30 ms for each increment
-for(int i=0;i<10;i++){
+for(int i=0;i<40;i++){
 	base.DriveArc(move, toSeconds);
 	ThreadUtil.wait((int)toSeconds*1000)
 }
