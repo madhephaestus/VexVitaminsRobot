@@ -320,7 +320,7 @@
 		<file>DefaultDhSolver.groovy</file>
 	</kinematics>
 <link>
-	<name>basePan</name>
+	<name>gripper</name>
 	<deviceName>virtualDev</deviceName>
 	<type>virtual</type>
 	<index>0</index>
@@ -401,180 +401,16 @@
 	</DHParameters>
 
 </link>
-<link>
-	<name>baseTilt</name>
-	<deviceName>virtualDev</deviceName>
-	<type>virtual</type>
-	<index>1</index>
-	<scale>0.33</scale>
-	<upperLimit>255.0</upperLimit>
-	<lowerLimit>0.0</lowerLimit>
-	<upperVelocity>1.0E8</upperVelocity>
-	<lowerVelocity>-1.0E8</lowerVelocity>
-	<staticOffset>128.0</staticOffset>
-	<deviceTheoreticalMax>255.0</deviceTheoreticalMax>
-	<deviceTheoreticalMin>0.0</deviceTheoreticalMin>
-	<isLatch>true</isLatch>
-	<indexLatch>128.0</indexLatch>
-	<isStopOnLatch>false</isStopOnLatch>
-	<homingTPS>10000000</homingTPS>
-
-	<vitamins>
-
-		<vitamin>
-			<name>shaft</name>
-			<type>hobbyServoHorn</type>
-			<id>standardMicro1</id>
-			<pose>
-	<x>0.0</x>
-	<y>0.0</y>
-	<z>0.0</z>
-	<rotw>1.0</rotw>
-	<rotx>-0.0</rotx>
-	<roty>-0.0</roty>
-	<rotz>-0.0</rotz>
-			</pose>
-			<frame>origin</frame>
-		</vitamin>
-
-		<vitamin>
-			<name>electroMechanical</name>
-			<type>hobbyServo</type>
-			<id>mg92b</id>
-			<pose>
-	<x>0.0</x>
-	<y>0.0</y>
-	<z>0.0</z>
-	<rotw>1.0</rotw>
-	<rotx>-0.0</rotx>
-	<roty>-0.0</roty>
-	<rotz>-0.0</rotz>
-			</pose>
-			<frame>lastlink</frame>
-		</vitamin>
-
-	</vitamins>
-	<passive>false</passive>
-	<mass>0.01</mass>
-	<centerOfMassFromCentroid>
-	<x>0.0</x>
-	<y>0.0</y>
-	<z>0.0</z>
-	<rotw>1.0</rotw>
-	<rotx>0.0</rotx>
-	<roty>0.0</roty>
-	<rotz>0.0</rotz>
-</centerOfMassFromCentroid>
-	<imuFromCentroid>
-	<x>0.0</x>
-	<y>0.0</y>
-	<z>0.0</z>
-	<rotw>1.0</rotw>
-	<rotx>-0.0</rotx>
-	<roty>-0.0</roty>
-	<rotz>-0.0</rotz>
-</imuFromCentroid>
-
-	<DHParameters>
-		<Delta>0.0</Delta>
-		<Theta>-90.0</Theta>
-		<Radius>93.0</Radius>
-		<Alpha>0.0</Alpha>
-	</DHParameters>
-
-</link>
-<link>
-	<name>elbow</name>
-	<deviceName>virtualDev</deviceName>
-	<type>virtual</type>
-	<index>2</index>
-	<scale>0.33</scale>
-	<upperLimit>255.0</upperLimit>
-	<lowerLimit>0.0</lowerLimit>
-	<upperVelocity>1.0E8</upperVelocity>
-	<lowerVelocity>-1.0E8</lowerVelocity>
-	<staticOffset>121.0</staticOffset>
-	<deviceTheoreticalMax>255.0</deviceTheoreticalMax>
-	<deviceTheoreticalMin>0.0</deviceTheoreticalMin>
-	<isLatch>true</isLatch>
-	<indexLatch>121.0</indexLatch>
-	<isStopOnLatch>false</isStopOnLatch>
-	<homingTPS>10000000</homingTPS>
-
-	<vitamins>
-
-		<vitamin>
-			<name>shaft</name>
-			<type>hobbyServoHorn</type>
-			<id>standardMicro1</id>
-			<pose>
-	<x>0.0</x>
-	<y>0.0</y>
-	<z>0.0</z>
-	<rotw>1.0</rotw>
-	<rotx>-0.0</rotx>
-	<roty>-0.0</roty>
-	<rotz>-0.0</rotz>
-			</pose>
-			<frame>origin</frame>
-		</vitamin>
-
-		<vitamin>
-			<name>electroMechanical</name>
-			<type>hobbyServo</type>
-			<id>mg92b</id>
-			<pose>
-	<x>0.0</x>
-	<y>0.0</y>
-	<z>0.0</z>
-	<rotw>1.0</rotw>
-	<rotx>-0.0</rotx>
-	<roty>-0.0</roty>
-	<rotz>-0.0</rotz>
-			</pose>
-			<frame>lastlink</frame>
-		</vitamin>
-
-	</vitamins>
-	<passive>false</passive>
-	<mass>0.01</mass>
-	<centerOfMassFromCentroid>
-	<x>0.0</x>
-	<y>0.0</y>
-	<z>0.0</z>
-	<rotw>1.0</rotw>
-	<rotx>0.0</rotx>
-	<roty>0.0</roty>
-	<rotz>0.0</rotz>
-</centerOfMassFromCentroid>
-	<imuFromCentroid>
-	<x>0.0</x>
-	<y>0.0</y>
-	<z>0.0</z>
-	<rotw>1.0</rotw>
-	<rotx>-0.0</rotx>
-	<roty>-0.0</roty>
-	<rotz>-0.0</rotz>
-</imuFromCentroid>
-
-	<DHParameters>
-		<Delta>0.0</Delta>
-		<Theta>90.0</Theta>
-		<Radius>131.0</Radius>
-		<Alpha>0.0</Alpha>
-	</DHParameters>
-
-</link>
 
 <ZframeToRAS
 >
-	<x>0.0</x>
-	<y>0.0</y>
-	<z>0.0</z>
-	<rotw>1.0</rotw>
-	<rotx>0.0</rotx>
-	<roty>0.0</roty>
-	<rotz>0.0</rotz>
+	<x>425.09999999999593</x>
+	<y>-4.547248188157486E-5</y>
+	<z>340.3499999999999</z>
+	<rotw>0.7071067811865449</rotw>
+	<rotx>-0.7071067811865447</rotx>
+	<roty>6.183442362920108E-8</roty>
+	<rotz>-6.183442362920108E-8</rotz>
 
 </ZframeToRAS>
 
@@ -900,10 +736,10 @@
 	<x>58.2</x>
 	<y>100.0</y>
 	<z>12.6</z>
-	<rotw>-0.4999127259224038</rotw>
-	<rotx>0.5000000000000041</rotx>
-	<roty>0.49999999999999606</roty>
-	<rotz>0.5000872588467254</rotz>
+	<rotw>-0.4999127259224037</rotw>
+	<rotx>0.500000000000004</rotx>
+	<roty>0.49999999999999595</roty>
+	<rotz>0.5000872588467253</rotz>
 
 </baseToZframe>
 
@@ -1216,9 +1052,9 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
-	<rotw>0.6087614290087177</rotw>
+	<rotw>0.6087614290087178</rotw>
 	<rotx>-0.0</rotx>
-	<roty>-0.7933533402912374</roty>
+	<roty>-0.7933533402912376</roty>
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
