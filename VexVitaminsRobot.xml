@@ -371,6 +371,22 @@
 			<frame>lastlink</frame>
 		</vitamin>
 
+		<vitamin>
+			<name>claw</name>
+			<type>vexCchannel</type>
+			<id>Steel 2x15</id>
+			<pose>
+	<x>0.0</x>
+	<y>0.0</y>
+	<z>0.0</z>
+	<rotw>6.293935632658074E-5</rotw>
+	<rotx>-6.044892803435626E-5</rotx>
+	<roty>0.6926936887346629</roty>
+	<rotz>-0.721231894727161</rotz>
+			</pose>
+			<frame>default</frame>
+		</vitamin>
+
 	</vitamins>
 	<passive>false</passive>
 	<mass>0.01</mass>
@@ -396,7 +412,7 @@
 	<DHParameters>
 		<Delta>0.0</Delta>
 		<Theta>0.0</Theta>
-		<Radius>60.0</Radius>
+		<Radius>94.0</Radius>
 		<Alpha>-90.0</Alpha>
 	</DHParameters>
 
@@ -416,13 +432,13 @@
 
 <baseToZframe>
 
-	<x>0.0</x>
-	<y>0.0</y>
+	<x>-88.89999999999999</x>
+	<y>-88.89999999999999</y>
 	<z>0.0</z>
 	<rotw>1.0</rotw>
-	<rotx>0.0</rotx>
-	<roty>0.0</roty>
-	<rotz>0.0</rotz>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
 
 </baseToZframe>
 
@@ -451,7 +467,7 @@
 	<rotz>-0.0</rotz>
 
 </baseToZframe>
-	<mass>0.5</mass>
+	<mass>0.005</mass>
 	<centerOfMassFromCentroid>
 	<x>0.0</x>
 	<y>0.0</y>
