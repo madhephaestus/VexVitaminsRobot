@@ -28,6 +28,8 @@ return new com.neuronrobotics.sdk.addons.kinematics.IDriveEngine (){
 			HashMap<DHParameterKinematics,MobileBase> wheels = getDrivable(base)
 			for(DHParameterKinematics LimbWithWheel:wheels.keySet()){
 				MobileBase wheelSource=wheels.get(LimbWithWheel);
+				if(LimbWithWheel.getAbstractLink(LimbWithWheel.getNumberOfLinks()-1).getLinkConfiguration().isPassive())
+					continue;
 //				TransformNR global= base.getFiducialToGlobalTransform();
 //				if(global==null){
 //					global=new TransformNR()
