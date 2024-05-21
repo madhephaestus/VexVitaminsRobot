@@ -53,7 +53,7 @@ try {
 		base.DriveArc(move, toSeconds);
 		ThreadUtil.wait((int)toSeconds*1000)
 		if(measuredPose!=null)
-			println "Heading is "+measuredPose.toSimpleString()
+			println "Heading is "+Math.toDegrees(measuredPose.getRotation().getRotationAzimuth())
 	}
 }catch(Throwable t) {
 	t.printStackTrace(System.out)
