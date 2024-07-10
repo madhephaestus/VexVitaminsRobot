@@ -55,6 +55,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -71,6 +72,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -137,6 +139,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -153,6 +156,7 @@
 	<rotz>-0.9999999961922823</rotz>
 			</pose>
 			<frame>default</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -169,6 +173,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -235,6 +240,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -251,6 +257,7 @@
 	<rotz>-0.9999999961922823</rotz>
 			</pose>
 			<frame>default</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -267,6 +274,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -283,6 +291,7 @@
 	<rotz>-0.7071067811865475</rotz>
 			</pose>
 			<frame>default</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -369,6 +378,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -385,6 +395,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -401,6 +412,7 @@
 	<rotz>-0.721231894727161</rotz>
 			</pose>
 			<frame>default</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -436,13 +448,13 @@
 
 <ZframeToRAS
 >
-	<x>425.10002575152896</x>
-	<y>-4.54724863867882E-5</y>
-	<z>363.5499845019428</z>
-	<rotw>0.6935649388009112</rotw>
-	<rotx>-0.6935649147139198</rotx>
-	<roty>0.13772330622619122</roty>
-	<rotz>0.13772318492573515</rotz>
+	<x>425.09999999999593</x>
+	<y>-4.5472481887698095E-5</y>
+	<z>440.3499999999999</z>
+	<rotw>0.7071067811865449</rotw>
+	<rotx>-0.7071067811865447</rotx>
+	<roty>6.183442362920108E-8</roty>
+	<rotz>-6.183442362920108E-8</rotz>
 
 </ZframeToRAS>
 
@@ -583,6 +595,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -599,6 +612,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -702,6 +716,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -718,6 +733,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -821,6 +837,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -837,6 +854,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -923,6 +941,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -939,6 +958,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -974,13 +994,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -1042,6 +1062,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -1058,6 +1079,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1093,13 +1115,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -1161,6 +1183,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -1177,6 +1200,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1212,13 +1236,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -1280,6 +1304,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -1296,6 +1321,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1331,13 +1357,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -1346,10 +1372,10 @@
 	<x>5.641116635967829</x>
 	<y>46.458775307786645</y>
 	<z>4.0</z>
-	<rotw>0.5292770258228963</rotw>
-	<rotx>0.529277025822896</rotx>
-	<roty>0.468898528400409</roty>
-	<rotz>0.46889852840040913</rotz>
+	<rotw>0.5292770258228964</rotw>
+	<rotx>0.5292770258228962</rotx>
+	<roty>0.46889852840040913</roty>
+	<rotz>0.46889852840040924</rotz>
 
 </baseToZframe>
 
@@ -1399,6 +1425,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -1415,6 +1442,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1450,13 +1478,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -1465,10 +1493,10 @@
 	<x>-16.595508713567185</x>
 	<y>43.758760157686325</y>
 	<z>4.000000000000002</z>
-	<rotw>-0.4016824345667751</rotw>
-	<rotx>-0.401682434566775</rotx>
-	<roty>-0.5819374723804168</roty>
-	<rotz>-0.5819374723804169</rotz>
+	<rotw>-0.4016824345667752</rotw>
+	<rotx>-0.4016824345667751</rotx>
+	<roty>-0.5819374723804169</roty>
+	<rotz>-0.581937472380417</rotz>
 
 </baseToZframe>
 
@@ -1518,6 +1546,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -1534,6 +1563,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1569,13 +1599,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -1637,6 +1667,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -1653,6 +1684,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1688,13 +1720,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -1756,6 +1788,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -1772,6 +1805,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1807,13 +1841,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -1875,6 +1909,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -1891,6 +1926,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -1926,13 +1962,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -1994,6 +2030,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -2010,6 +2047,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -2045,13 +2083,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -2113,6 +2151,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -2129,6 +2168,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -2164,13 +2204,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -2179,10 +2219,10 @@
 	<x>5.641116635886732</x>
 	<y>-46.4587753077965</y>
 	<z>4.0</z>
-	<rotw>0.529277025822487</rotw>
-	<rotx>0.5292770258224868</rotx>
-	<roty>-0.468898528400871</roty>
-	<rotz>-0.4688985284008711</rotz>
+	<rotw>0.5292770258224871</rotw>
+	<rotx>0.5292770258224869</rotx>
+	<roty>-0.4688985284008711</roty>
+	<rotz>-0.4688985284008712</rotz>
 
 </baseToZframe>
 
@@ -2232,6 +2272,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -2248,6 +2289,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -2283,13 +2325,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -2351,6 +2393,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -2367,6 +2410,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -2402,13 +2446,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -2470,6 +2514,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -2486,6 +2531,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -2521,13 +2567,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -2589,6 +2635,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -2605,6 +2652,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -2640,13 +2688,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -2708,6 +2756,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -2724,6 +2773,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -2759,13 +2809,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -2827,6 +2877,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -2843,6 +2894,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -2878,13 +2930,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -2946,6 +2998,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -2962,6 +3015,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -2997,13 +3051,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -3065,6 +3119,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -3081,6 +3136,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -3116,13 +3172,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -3184,6 +3240,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -3200,6 +3257,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -3235,13 +3293,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -3303,6 +3361,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -3319,6 +3378,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -3354,13 +3414,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -3422,6 +3482,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -3438,6 +3499,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -3473,13 +3535,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -3541,6 +3603,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -3557,6 +3620,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -3592,13 +3656,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -3660,6 +3724,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -3676,6 +3741,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -3711,13 +3777,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -3779,6 +3845,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -3795,6 +3862,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -3830,13 +3898,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -3898,6 +3966,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -3914,6 +3983,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -3949,13 +4019,13 @@
 
 <ZframeToRAS
 >
-	<x>-1.5987211554602254E-14</x>
+	<x>0.0</x>
 	<y>100.0</y>
 	<z>12.600000000000001</z>
-	<rotw>0.5299369177086939</rotw>
-	<rotx>-0.5299369177086937</rotx>
-	<roty>-0.4681526067954861</roty>
-	<rotz>-0.4681526067954863</rotz>
+	<rotw>0.5000000000000001</rotw>
+	<rotx>-0.4999999999999999</rotx>
+	<roty>0.5</roty>
+	<rotz>0.5</rotz>
 
 </ZframeToRAS>
 
@@ -4096,6 +4166,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -4112,6 +4183,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -4198,6 +4270,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -4214,6 +4287,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -4249,13 +4323,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -4317,6 +4391,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -4333,6 +4408,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -4368,13 +4444,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -4436,6 +4512,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -4452,6 +4529,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -4487,13 +4565,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -4555,6 +4633,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -4571,6 +4650,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -4606,13 +4686,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -4621,10 +4701,10 @@
 	<x>5.641116635967829</x>
 	<y>46.458775307786645</y>
 	<z>4.0</z>
-	<rotw>0.5292770258228964</rotw>
-	<rotx>0.5292770258228962</rotx>
-	<roty>0.46889852840040913</roty>
-	<rotz>0.46889852840040924</rotz>
+	<rotw>0.5292770258228963</rotw>
+	<rotx>0.529277025822896</rotx>
+	<roty>0.468898528400409</roty>
+	<rotz>0.46889852840040913</rotz>
 
 </baseToZframe>
 
@@ -4674,6 +4754,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -4690,6 +4771,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -4725,13 +4807,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -4740,10 +4822,10 @@
 	<x>-16.595508713567185</x>
 	<y>43.758760157686325</y>
 	<z>4.000000000000002</z>
-	<rotw>-0.4016824345667752</rotw>
-	<rotx>-0.4016824345667751</rotx>
-	<roty>-0.5819374723804169</roty>
-	<rotz>-0.581937472380417</rotz>
+	<rotw>-0.4016824345667751</rotw>
+	<rotx>-0.401682434566775</rotx>
+	<roty>-0.5819374723804168</roty>
+	<rotz>-0.5819374723804169</rotz>
 
 </baseToZframe>
 
@@ -4793,6 +4875,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -4809,6 +4892,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -4844,13 +4928,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -4912,6 +4996,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -4928,6 +5013,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -4963,13 +5049,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -5031,6 +5117,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -5047,6 +5134,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -5082,13 +5170,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -5150,6 +5238,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -5166,6 +5255,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -5201,13 +5291,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -5269,6 +5359,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -5285,6 +5376,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -5320,13 +5412,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -5388,6 +5480,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -5404,6 +5497,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -5439,13 +5533,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -5454,10 +5548,10 @@
 	<x>5.641116635886732</x>
 	<y>-46.4587753077965</y>
 	<z>4.0</z>
-	<rotw>0.5292770258224871</rotw>
-	<rotx>0.5292770258224869</rotx>
-	<roty>-0.4688985284008711</roty>
-	<rotz>-0.4688985284008712</rotz>
+	<rotw>0.529277025822487</rotw>
+	<rotx>0.5292770258224868</rotx>
+	<roty>-0.468898528400871</roty>
+	<rotz>-0.4688985284008711</rotz>
 
 </baseToZframe>
 
@@ -5507,6 +5601,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -5523,6 +5618,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -5558,13 +5654,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -5626,6 +5722,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -5642,6 +5739,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -5677,13 +5775,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -5745,6 +5843,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -5761,6 +5860,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -5796,13 +5896,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -5864,6 +5964,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -5880,6 +5981,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -5915,13 +6017,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -5983,6 +6085,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -5999,6 +6102,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -6034,13 +6138,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -6102,6 +6206,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -6118,6 +6223,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -6153,13 +6259,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -6221,6 +6327,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -6237,6 +6344,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -6272,13 +6380,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -6340,6 +6448,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -6356,6 +6465,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -6391,13 +6501,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -6459,6 +6569,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -6475,6 +6586,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -6510,13 +6622,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -6578,6 +6690,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -6594,6 +6707,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -6629,13 +6743,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -6697,6 +6811,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -6713,6 +6828,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -6748,13 +6864,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -6816,6 +6932,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -6832,6 +6949,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -6867,13 +6985,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -6935,6 +7053,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -6951,6 +7070,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -6986,13 +7106,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -7054,6 +7174,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -7070,6 +7191,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -7105,13 +7227,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -7173,6 +7295,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>lastlink</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -7189,6 +7312,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>origin</frame>
+			<script>false</script>
 		</vitamin>
 
 	</vitamins>
@@ -7224,13 +7348,13 @@
 
 <ZframeToRAS
 >
-	<x>-8.881784197001252E-16</x>
-	<y>-100.0</y>
-	<z>12.600000000000016</z>
-	<rotw>0.46382642336026375</rotw>
-	<rotx>0.4638264233602659</rotx>
-	<roty>-0.5337275044372581</roty>
-	<rotz>0.53372750443726</rotz>
+	<x>2.2560078805078376E-14</x>
+	<y>-100.00000000000001</y>
+	<z>12.600000000000023</z>
+	<rotw>0.5000436313273846</rotw>
+	<rotx>0.5000436313273864</rotx>
+	<roty>-0.4999563648648956</roty>
+	<rotz>0.49995636486489764</rotz>
 
 </ZframeToRAS>
 
@@ -7386,6 +7510,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -7396,12 +7521,13 @@
 	<x>0.0</x>
 	<y>0.0</y>
 	<z>0.0</z>
-	<rotw>0.6087614290087178</rotw>
+	<rotw>0.6087614290087177</rotw>
 	<rotx>-0.0</rotx>
-	<roty>-0.7933533402912376</roty>
+	<roty>-0.7933533402912374</roty>
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -7418,6 +7544,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -7434,6 +7561,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -7450,6 +7578,7 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -7466,6 +7595,7 @@
 	<rotz>-0.7071067784940843</rotz>
 			</pose>
 			<frame>default</frame>
+			<script>false</script>
 		</vitamin>
 
 		<vitamin>
@@ -7482,6 +7612,24 @@
 	<rotz>-0.0</rotz>
 			</pose>
 			<frame>default</frame>
+			<script>false</script>
+		</vitamin>
+
+		<vitamin>
+			<name>script</name>
+			<type>https://github.com/madhephaestus/TestRepo.git</type>
+			<id>myFile.groovy</id>
+			<pose>
+	<x>13.0</x>
+	<y>-18.0</y>
+	<z>0.0</z>
+	<rotw>1.0</rotw>
+	<rotx>-0.0</rotx>
+	<roty>-0.0</roty>
+	<rotz>-0.0</rotz>
+			</pose>
+			<frame>default</frame>
+			<script>true</script>
 		</vitamin>
 
 	</vitamins>
