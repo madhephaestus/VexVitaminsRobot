@@ -15,7 +15,7 @@ class myCadGen implements ICadGenerator{
 	}
 	@Override
 	public ArrayList<CSG> generateCad(DHParameterKinematics d, int i) {
-		MobileBaseCadManager manager  = MobileBaseCadManager.get(d.getLinkConfiguration(i));
+		MobileBaseCadManager manager  = MobileBaseCadManager.get(csgdb,d.getLinkConfiguration(i));
 		TransformNR offset = d.getDHStep(i).inverse();
 		
 		ArrayList<CSG> back =[]
@@ -61,7 +61,7 @@ class myCadGen implements ICadGenerator{
 
 	@Override
 	public ArrayList<CSG> generateBody(MobileBase b) {
-		MobileBaseCadManager manager  = MobileBaseCadManager.get(b);
+		MobileBaseCadManager manager  = MobileBaseCadManager.get(csgdb,b);
 		ArrayList<CSG> back =[]
 		back.addAll(manager.getVitaminsDisplay(b,b.getRootListener()));
 		for(CSG c:back) {
